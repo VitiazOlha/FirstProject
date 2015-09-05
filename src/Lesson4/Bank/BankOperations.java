@@ -5,8 +5,8 @@ package Lesson4.Bank;
  */
 public class BankOperations {
 
-    private String type; //type of operation
-    private String client; //type of client
+    private String type;
+    private String client;
 
     public String getType() {
         return type;
