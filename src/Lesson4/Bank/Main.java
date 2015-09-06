@@ -3,7 +3,7 @@ package Lesson4.Bank;
 /**
  * Created by freedomserg.
  */
-public class Main{
+public class Main {
     public static void main(String[] args) {
         BankOperations operationOne = new ActiveOperations();
         operationOne.setType("Investment loan");

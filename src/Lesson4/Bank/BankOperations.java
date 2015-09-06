@@ -11,6 +11,7 @@ public class BankOperations {
     public String getType() {
         return type;
     }
+
     public void setType (String type) {
         this.type = type;
     }
@@ -18,6 +19,7 @@ public class BankOperations {
     public String getClient() {
         return client;
     }
+
     public void setClient(String client) {
         this.client = client;
     }
