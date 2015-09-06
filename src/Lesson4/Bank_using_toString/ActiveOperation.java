@@ -1,4 +1,4 @@
-package Lesson4.Bank2;
+package Lesson4.Bank_using_toString;
 
 /**
  * Created by freedomserg.
